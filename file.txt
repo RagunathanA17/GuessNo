@@ -1,1 +1,11 @@
-hello world
+git config --global user.name "Ragunathan A"
+git config --global user.email "ragunathanofficial17@gmail.com"
+
+git init
+git add
+git status
+git commit -m "make a msg here for commit"
+
+git log - like "git status" (log - checks of commit status [how many commits])
+
+
